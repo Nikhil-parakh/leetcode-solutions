@@ -1,4 +1,4 @@
-/* Leetcode 2442 => Count Number of Distinct Integers After Reverse Operations */
+/* Leetcode 2744 => Find Maximum Number of String Pairs */
 import java.util.HashSet;
 public class code2744{
     public static void main(String args[]){
